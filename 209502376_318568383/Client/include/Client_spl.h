@@ -1,0 +1,8 @@
+//
+// Created by spl211 on 03/01/2022.
+//
+
+#ifndef BOOST_ECHO_CLIENT_CLIENT_SPL_H
+#define BOOST_ECHO_CLIENT_CLIENT_SPL_H
+
+#endif //BOOST_ECHO_CLIENT_CLIENT_SPL_H
